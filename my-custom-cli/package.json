@@ -1,0 +1,13 @@
+{
+  "name": "hello-pocke",
+  "version": "1.0.0",
+  "description": "A simple CLI that greets Pocke",
+  "bin": {
+    "my-custom-cli": "./index.js"
+  },
+  "author": "Anas ",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
